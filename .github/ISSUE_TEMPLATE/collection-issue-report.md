@@ -1,6 +1,6 @@
 ---
 name: Collection issue report
-about: Create a report to help us improve colelction data
+about: Create a report to help us improve collection data
 title: ''
 labels: Collection
 assignees: Marec4, whywefight
