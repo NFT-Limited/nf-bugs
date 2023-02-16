@@ -7,7 +7,7 @@ assignees: Marec4, whywefight
 
 ---
 
-**Describe the bug**
+**Describe the issue**
 A clear and concise description of what the issue is, what is missing or needs an update.
 
 **Details**
