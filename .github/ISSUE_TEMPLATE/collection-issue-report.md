@@ -1,7 +1,7 @@
 ---
 name: Collection issue report
 about: Create a report to help us improve collection data
-title: ''
+title: "[Collection/NFT]"
 labels: Collection
 assignees: Marec4, whywefight
 
