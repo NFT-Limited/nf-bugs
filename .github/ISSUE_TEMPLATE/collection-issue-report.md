@@ -2,7 +2,7 @@
 name: Collection issue report
 about: Create a report to help us improve collection data
 title: "[Collection/NFT]"
-labels: Collection
+labels: Collection/NFT, Priority 1
 assignees: Marec4, whywefight
 
 ---

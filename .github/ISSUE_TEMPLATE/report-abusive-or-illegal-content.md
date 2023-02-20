@@ -2,7 +2,7 @@
 name: Report abusive or illegal content
 about: If you come accross abusive or illegal content, use this report.
 title: "[ABUSIVE/ILLEGAL]"
-labels: Collection, Priority 1
+labels: Priority 1
 assignees: Marec4, whywefight
 
 ---
